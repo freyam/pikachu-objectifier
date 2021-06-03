@@ -1,2 +1,1 @@
-# Pykachu
-A Pikachu Detector
+# Pikachu Objectifier
